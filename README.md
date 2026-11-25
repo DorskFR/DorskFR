@@ -47,6 +47,10 @@
       <sub>Codebase as a 3D graph</sub>
     </td>
     <td align="center" valign="top" width="128">
+      <a href="https://github.com/DorskFR/tegata"><img src="assets/tegata.svg" width="56" height="56" alt="tegata"/><br/><b>tegata</b></a><br/>
+      <sub>mTLS client certs for your devices</sub>
+    </td>
+    <td align="center" valign="top" width="128">
       <a href="https://github.com/DorskFR/tsumikit"><img src="assets/tsumikit.svg" width="56" height="56" alt="tsumikit"/><br/><b>tsumikit</b></a><br/>
       <sub>Svelte 5 UI kit, 31 themes</sub>
     </td>
@@ -54,6 +58,5 @@
       <a href="https://github.com/DorskFR/kakehashi"><img src="assets/kakehashi.svg" width="56" height="56" alt="kakehashi"/><br/><b>kakehashi</b></a><br/>
       <sub>Real Svelte 5 components inside React</sub>
     </td>
-    <td></td>
   </tr>
 </table>
